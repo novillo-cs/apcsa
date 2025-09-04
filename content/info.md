@@ -52,7 +52,7 @@ eleventyExcludeFromCollections: true
 - The teacher may randomly check homework by reviewing GitHub repositories or asking students to demo their work in class.
 - The Git commit history will be reviewed and used as part of classwork and homework assessment.
 
-# GitHub Guidelines for Fair Grading
+# GitHub Guidelines for Grading
 
 To ensure accurate grading and to reflect genuine progress, students must follow these practices:
 
