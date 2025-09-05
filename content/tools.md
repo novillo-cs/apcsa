@@ -31,7 +31,7 @@ GitHub supports Markdown for writing formatted documentation, which is commonly 
 ## Installing Git
 **Mac and Linux:** Git should be installed already.
 
-Windows: Install git and the shell gitbash from [here](https://gitforwindows.org/). This includes git, gitbash, and has shell integration so that you can right-click on a folder in Windows Explorer to access gitbash at that location.
+**Windows:** Install git and the shell gitbash from [here](https://gitforwindows.org/). This includes git, gitbash, and has shell integration so that you can right-click on a folder in Windows Explorer to access gitbash at that location.
 
 ## Git commands
 **The git config command:** Configuring user information used across all local repositories. The following commands set a name and an email address that are associated with each version history.
