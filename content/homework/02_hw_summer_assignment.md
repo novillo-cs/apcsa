@@ -1,6 +1,6 @@
 ---
 title: HW 02 - Summer Assignment, Piazza, Git
-due_date: 2025-09-
+due_date: 2025-09-08
 ---
 
 ## Summer Assignment
@@ -21,4 +21,4 @@ due_date: 2025-09-
 
 ## GitHub
 
-1. Set up Git on your home computer and practice using Git commands. If you have any questions, post them on Piazza, and I encourage everyone to help your peers by answering those questions.
+1. Set up Git and SSH keys on your home computer and practice using Git commands. If you have any questions, post them on Piazza, and I encourage everyone to help your peers by answering those questions.
