@@ -31,7 +31,7 @@ GitHub supports Markdown for writing formatted documentation, which is commonly 
 ## Installing Git
 **Mac and Linux:** Git should be installed already.
 
-**Windows:** Install git and the shell gitbash from [here](https://gitforwindows.org/). This includes git, gitbash, and has shell integration so that you can right-click on a folder in Windows Explorer to access gitbash at that location.
+Windows: Install git and the shell gitbash from [here](https://gitforwindows.org/). This includes git, gitbash, and has shell integration so that you can right-click on a folder in Windows Explorer to access gitbash at that location.
 
 ## Git commands
 **The git config command:** Configuring user information used across all local repositories. The following commands set a name and an email address that are associated with each version history.
@@ -52,3 +52,57 @@ The basic commands we are going to use in this class are:
 
 You may take a look at the git reference [sheet](https://education.github.com/git-cheat-sheet-education.pdf).
 
+## GitHub Account & GitHub   Classroom Assignment
+
+1. If you already have a GitHub account, log in. If not, please create one at [GitHub](https://github.com/). You may use any email address to sign up.
+
+2. Accept the GitHub Classroom assignment for this class. Click [here](https://classroom.github.com/a/7uOc3gJB)
+
+3. After accepting the assignment, click **"Add a README"**. In the file, write your name and then click **"Commit changes…"**
+
+## Connect to GitHub with SSH
+
+Secure Shell (SSH) is a way to safely connect to another computer (such as GitHub or a server) over the internet. It uses special keys to make sure both sides are who they say they are, and it creates an encrypted connection so no one else can see the information being shared.
+
+Two keys are needed:
+
+**Private key:** must be on your computer.
+
+**Public key:** must be placed on the other device (GitHub, server) so it can recognize your computer.
+
+
+Follow these steps to create an ssh key, connect to GitHub using SSH, and clone your repository.
+
+1. Create your ssh key: Open your terminal and type
+
+    `ssh-keygen -t ed25519`
+
+    Check if your key was generated:
+    ```
+    cd .ssh/
+    ls
+    ```
+    You should see your private key (eg. `id_ed25519`) and public key (eg. `id_ed25519.pub`) inside that directory.
+
+2. In your GitHub account.
+
+    Click your profile picture in the top-right corner. From the dropdown menu, select [Settings](https://github.com/settings/keys).
+
+    In the left sidebar, click SSH and GPG keys, then click New SSH key.
+
+    Enter a title for the key, keep the type set to Authentication Key, and paste your public key (content inside the file id_ed25519.pub) into the field "Key". Make sure you do not add spaces or blank lines.
+
+3. Go to the following [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/testing-your-ssh-connection) and test your SSH connection.
+
+4. Let's clone your repository on your local computer:
+
+    Go to your assignments repository that you accepted for this class in GitHub (assignments repo must be accepted only once). You will see a green button, "Code". You must click on that button and select SSH to have the appropriate link that will allow you to clone your repository and copy the link you see there.
+
+5. Create a folder `APCSA_1` anywhere in your computer.
+   
+6. On your terminal, go inside the folder `APCSA_1` to clone your repository and type:
+    ```
+    git clone PASTE_THE_LINK_YOU_COPIED_FROM_GITHUB_(git@...)
+    ```
+
+7. Go inside the folder that appears after you execute the clone command, and you will see the files you have on your GitHub repository.
