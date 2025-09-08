@@ -1,5 +1,5 @@
 ---
-title: Lesson 01 - GitHub
+title: Lesson 01 - Git
 ---
 
 ## GitHub 
