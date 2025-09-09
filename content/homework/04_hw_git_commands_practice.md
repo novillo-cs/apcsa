@@ -1,6 +1,6 @@
 ---
 title: HW 04 - Git commands practice
-due_date: 2024-09-10
+due_date: 2025-09-10
 ---
 
 The objective of this homework is to create a java file, add it, commit and push to a remote repository.
