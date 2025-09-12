@@ -19,3 +19,8 @@ For example, a sample program run might look like this:
 2. Write a Java program (WorkShift.java). A doctor works 20 hours, 42 minutes, and 16 seconds in one shift at a hospital. Convert the total shift time into seconds and display that information.
 
 NOTE: You must use at least ONE compound operator (+=, -=, *=, /=, %=) to complete this program.
+
+
+
+## Quiz Reminder
+The **Summer Assignment Quiz** will be on **Tuesday, September 16th**
