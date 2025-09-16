@@ -1,6 +1,6 @@
 ---
 title: CW 05 - CodingBat
-due_date: 2025-09-
+due_date: 2025-09-16
 ---
 
 Let's work on the following [Exercises](https://codingbat.com/home/jnovillo@stuy.edu/apcsa_warmup) to strengthen your problem-solving and programming skills.
