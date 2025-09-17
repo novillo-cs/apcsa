@@ -1,6 +1,6 @@
 ---
-title: Lab 01 -
-due_date: 2025-09-
+title: Lab 01 - Random Walker
+due_date: 2025-09-19
 ---
 
 Please accept [this assignment]().
