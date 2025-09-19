@@ -1,5 +1,5 @@
 ---
-title: CW 09 - Strings and Loops
+title: HW 09 - Strings and Loops
 due_date: 2025-09-22
 ---
 
