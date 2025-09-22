@@ -1,9 +1,9 @@
 ---
 title: CW 07 - More Strings
-due_date: 2025-09-
+due_date: 2025-09-22
 ---
 
-[CodingBat]()
+[CodingBat](https://codingbat.com/home/jnovillo@stuy.edu/apcsa_strings_complex)
 
 [Java Visualizer](https://cscircles.cemc.uwaterloo.ca/java_visualize/)
 
