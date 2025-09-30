@@ -1,5 +1,5 @@
 ---
-title: CW 09 - Arrays
+title: CW 08 - Arrays
 due_date: 2025-09-29
 ---
 
