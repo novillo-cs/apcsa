@@ -1,5 +1,5 @@
 ---
-title: CW 09 - Arrays and Loops
+title: CW 10 - We love arrays and CodingBat
 due_date: 2025-10-03
 ---
 
