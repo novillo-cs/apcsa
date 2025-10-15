@@ -1,6 +1,6 @@
 ---
 title: CW 12 - Coordinate
-due_date: 2024-10-
+due_date: 2024-10-15
 ---
 
 **Part 1**
