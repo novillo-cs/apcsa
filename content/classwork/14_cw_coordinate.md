@@ -32,6 +32,6 @@ Look at the Driver file:
 
 There are a few questions to respond in that file. Please write your answers as comments in Driver.java
 
-Optional: If you have time you may start writting the Point class. Otherwise, no worries we will work on this on Monday.
+Optional: If you have time you may start writting the Point class. Otherwise, no worries we will work on this tomorrow, Thursday.
 
 DO NOT FORGET TO COMMIT AND PUSH YOUR CHANGES AT THE END OF THE PERIOD.
