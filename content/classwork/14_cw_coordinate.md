@@ -26,7 +26,7 @@ Save here: `.../APCSA1/apcsa-assignments-fall-YourUsername/classwork/10_15_coord
 
 **Part 3**
 
-Go [here](https://github.com/novillo-cs/apcsa_material/classwork/10_15_coordinates) and copy the files Point.java and Driver.java in your folder classwork folder "10_15_coordinate".
+Go [here](https://github.com/novillo-cs/apcsa_material/tree/main/classwork/10_15_coordinates) and copy the files Point.java and Driver.java in your folder classwork folder "10_15_coordinate".
 
 Look at the Driver file:
 
