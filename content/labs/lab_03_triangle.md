@@ -1,0 +1,8 @@
+---
+title: Lab 03 - Triangle
+due_date: 2025-10-
+---
+
+Please accept [this assignment]().
+
+**Due Date:** Friday, October 24, 2025 at 08:00 am.
