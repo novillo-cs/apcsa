@@ -1,5 +1,5 @@
 ---
-title: CW 19 - ArrayList
+title: CW 19 - ClimbInfo and CodingBat
 due_date: 2025-11-06
 ---
 
