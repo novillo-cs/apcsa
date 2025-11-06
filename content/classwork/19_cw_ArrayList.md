@@ -5,7 +5,7 @@ due_date: 2025-11-06
 
 ## Part 1
 
-Directions have been posted [here]()
+Directions have been posted [here](https://github.com/novillo-cs/apcsa_material/tree/main/classwork/11_06_ClimbInfo)
 
 Save here: `.../APCSA/apcsa-assignments-fall-YourUsername/classwork/11_06_ArrayList/`
 
