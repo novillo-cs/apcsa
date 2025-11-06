@@ -11,4 +11,4 @@ Save here: `.../APCSA/apcsa-assignments-fall-YourUsername/classwork/11_06_ArrayL
 
 ## Part 2
 
-[CodingBat]()
+[CodingBat](https://codingbat.com/home/jnovillo@stuy.edu/lists_0)
