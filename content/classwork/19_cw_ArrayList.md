@@ -7,7 +7,7 @@ due_date: 2025-11-07
 
 Directions have been posted [here](https://github.com/novillo-cs/apcsa_material/tree/main/classwork/11_06_ClimbInfo)
 
-Save here: `.../APCSA/apcsa-assignments-fall-YourUsername/classwork/11_06_ArrayList/`
+Save here: `.../APCSA/apcsa-assignments-fall-YourUsername/classwork/11_06_ClimbInfo/`
 
 ## Part 2
 
