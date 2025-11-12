@@ -1,5 +1,5 @@
 ---
-title: CW 22
+title: CW 22 - Count Triangles
 due_date: 2025-11-12
 ---
 
