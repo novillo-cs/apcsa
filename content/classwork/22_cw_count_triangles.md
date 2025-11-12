@@ -3,8 +3,6 @@ title: CW 22
 due_date: 2025-11-12
 ---
 
-Coming soon...
+[Directions](https://github.com/novillo-cs/apcsa_material/tree/main/classwork/11_12_count_triangles)
 
-[Directions]()
-
-Save here: `.../APCSA1/apcsa-assignments-fall-YourUsername/classwork/11_12/`
+Save here: `.../APCSA1/apcsa-assignments-fall-YourUsername/classwork/11_12_count_triangles/`
