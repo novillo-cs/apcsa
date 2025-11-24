@@ -1,5 +1,5 @@
 ---
-title: CW 24 - Library
+title: CW 24 - Inheritance Worksheet
 due_date: 2025-11-18
 ---
 
