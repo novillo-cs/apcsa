@@ -1,5 +1,5 @@
 ---
-title: CW 24 - Numbers
+title: CW 25 - Numbers
 due_date: 2025-11-24
 ---
 
