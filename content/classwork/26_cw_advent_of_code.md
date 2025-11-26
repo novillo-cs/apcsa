@@ -11,7 +11,7 @@ due_date: 2025-12-03
 
 ### Create an account and join leaderboard
 
-* Go to https://adventofcode.com/2016 and create an account if you do not have one. Otherwise, log in to your account.
+* Go to [https://adventofcode.com/2016](https://adventofcode.com/2016) and create an account if you do not have one. Otherwise, log in to your account.
 * Click on Leaderboard, then click on Private Leaderboard and join our class leaderboard using this code `3225641-46c1b3bf`.
 
 ### Classwork/Homework
