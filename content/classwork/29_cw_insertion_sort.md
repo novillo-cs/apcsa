@@ -5,7 +5,7 @@ due_date: 2025-12-05
 
 ## Directions:
 
-* You must implement selection sort. Use the following method signature:
+* You must implement insertion sort. Use the following method signature:
 
 `public static void insertionSort(int[] data) `
 
