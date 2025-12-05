@@ -1,3 +1,8 @@
+---
+title: CW 30 - Random
+due_date: 2025-12-05
+---
+
 ## Random
 
 Save here: `.../APCSA1/apcsa-assignments-YourUsername-fakk/classwork/12_05_random/random.txt`
