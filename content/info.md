@@ -19,7 +19,8 @@ eleventyExcludeFromCollections: true
 
 - **Attention and Focus:** Students must pay attention when the teacher gives a lesson. Please do not work on assignments for other subjects during my class. Avoid distractions. Students who do not comply with this rule will lose classwork points.
 
-- **Internet-enabled and other electronic devices:** Students must follow the school policy. 
+- **Internet-enabled and other electronic devices:** Students must follow the school policy regarding electronic devices at all times: cell phones must be placed in your pouch and stored in your backpack during class. This rule is especially critical during exams and assessments. During any exam, you are not permitted to have a cell phone, smartwatch, or any other internet-enabled device on your person or within reach, this includes in your pocket, on your desk, on your lap, or anywhere nearby. Even if you do not use the device, simply having it accessible during an exam will be considered a violation of academic integrity, and you will receive a zero on that exam with no opportunity to retake it. To avoid any issues, ensure all devices are powered off and secured in your backpack before any assessment begins. There will be no exceptions to this policy.
+ 
 
 - **Bathroom Use:** Please do your best to use the bathroom between periods. Bathroom use will not be permitted during exams or quizzes.
 
@@ -66,6 +67,11 @@ To ensure accurate grading and to reflect genuine progress, students must follow
 
 
 **Labs:** Lab assignments will be penalized 10% per day for each day they are late. After 5 days, late labs will no longer be accepted and no credit will be given.
+
+# Dropped Grades or Extra Credit:
+
+All grades earned in this course will count toward your final average, no assignments, quizzes, or exams will be dropped. Additionally, extra credit opportunities will not be offered. This policy is designed to encourage consistent effort throughout the semester and to ensure that your final grade accurately reflects your overall performance and understanding of the material. If you are struggling with an assignment or concept, I encourage you to seek help early rather than hope a low grade will be removed later. Your success in this class depends on staying engaged and putting forth your best effort on every assignment.
+
 
 # Missed Exam/Quiz
 
