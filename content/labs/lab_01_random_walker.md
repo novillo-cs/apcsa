@@ -1,5 +1,5 @@
 ---
-title: Lab 01 - Random Walker
+title: AP1 - Lab 01 - Random Walker
 due_date: 2025-09-19
 ---
 
