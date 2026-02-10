@@ -1,6 +1,6 @@
 ---
 title: CW 40 - Backtracking (CodingBat)
-due_date: 2026-02-08
+due_date: 2026-02-06
 ---
 
 Let's work on the following [Exercises](https://codingbat.com/home/jnovillo@stuy.edu/apcsa_recursion_backtracking_v1).
