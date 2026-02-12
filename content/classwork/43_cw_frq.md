@@ -8,7 +8,7 @@ due_date: 2026-02-13
 
 ### Instructions:
 
-- You will work on the [APCSA FRQs](https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf) from last year.
+- You will work on the [APCSA FRQs](https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf) (2023).
 
 - You do not need to create Java files.
 
