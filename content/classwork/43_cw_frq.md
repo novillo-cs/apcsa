@@ -18,4 +18,4 @@ due_date: 2026-02-13
 
 - Save your answers in one file using any of these formats: .txt, .md, .docx, or .pdf.
 
-- Save here: `../APCSA/apcsa-assignments-fall-YourUsername/classwork/02_12_FRQs_2023/`
+- Save here: `../APCSA/apcsa-assignments-spring-YourUsername/classwork/02_12_FRQs_2023/`
