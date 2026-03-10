@@ -1,6 +1,6 @@
 ---
-title: AP2 - Lab 04 - Merge Sort
-due_date: 2026-03-06
+title: AP2 - Lab 05 - Merge Sort
+due_date: 2026-03-12
 ---
 
 Please accept [this assignment](https://classroom.github.com/a/h2W4ff26).
