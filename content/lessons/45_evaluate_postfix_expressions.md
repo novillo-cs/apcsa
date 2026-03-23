@@ -6,4 +6,4 @@ title: Lesson 45 - Evaluate postfix expressions
 
 [Classwork](https://novillo-cs.github.io/apcsa/classwork/47_cw_evaluate_postfix_expressions/)
 
-[Homework](https://novillo-cs.github.io/apcsa/classwork/16_hw_evaluate_postfix_expressions/)
+[Homework](https://novillo-cs.github.io/apcsa/homework/16_hw_evaluate_postfix_expressions/)
