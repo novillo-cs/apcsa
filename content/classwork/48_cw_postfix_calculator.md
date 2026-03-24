@@ -1,5 +1,5 @@
 ---
-title: CW 47 - Postfix Calculator
+title: CW 48 - Postfix Calculator
 due_date: 2026-03-24
 ---
 
